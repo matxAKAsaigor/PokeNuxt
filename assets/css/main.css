@@ -1,0 +1,25 @@
+.pokenuxt-logo {
+  width: 125px;
+  height: auto;
+}
+
+* {
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+/* #app {
+  background-color: #dd0f39;
+}
+
+#main {
+  background-color: #ffffff;
+} */
